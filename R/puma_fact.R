@@ -6,7 +6,7 @@
 #'
 #' @param puma_name A character containing the input puma name.
 #' @param weight A number that indicates weight of the puma specified by puma name.
-#' @param height A number that indicates height of the puma specified by puma name.
+#' @param height A number that indicates height of the puma specified by puma name.Hello
 #'
 #' @return
 #' @export
