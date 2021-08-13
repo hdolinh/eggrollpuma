@@ -41,7 +41,7 @@ puma_warning(50, "YES")
 
 #' Mood of Pumas During the Week
 #'
-#' @param weekday This is a string that represents the days of the week (i.e. Monday, Tuesday, Wednesday, Thursday etc).
+#' @param weekday This is a string that represents the days of the week (i.e. Monday, Tuesday, Wednesday, Thursday, Friday etc).
 #' @param mood This is a string that represents the mood of the Puma (i.e. happy or sad).
 #'
 #' @return
